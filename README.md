@@ -13,7 +13,7 @@ There are multiple ball mechanics which let you use it as:
 2. Transportation tool
   - as the ball knocks you back in the opposite direction of the throw, with respect to the throw power
 3. Defense
-  - as the ball can deflect arrows
+  - as the ball can deflect projectiles
 
 # CREDITS
 All assets, logic and design wholly created by Kaloyan Penev.
