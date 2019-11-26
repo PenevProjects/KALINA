@@ -5,7 +5,7 @@ KALINA is a 2D Game created with the Construct 2 Engine. For more information on
 To play the game, visit:
 https://penevprojects.itch.io/kalina
 
-#MECHANICS
+# MECHANICS
 The game is centered around the dynamic of ball-control.
 There are multiple ball mechanics which let you use it as:
 1. Weapon:
@@ -15,5 +15,5 @@ There are multiple ball mechanics which let you use it as:
 3. Defense
   - as the ball can deflect arrows
 
-#CREDITS
+# CREDITS
 All assets, logic and design wholly created by Kaloyan Penev.
